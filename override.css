@@ -1,0 +1,54 @@
+.navbar-brand{
+    background-color: #3cadad;
+    font-size: 28px;
+    padding: 0;
+    margin-left: 250px;
+}
+.nav-link{
+    font-size: 15px;
+    padding-right: 5px;
+}
+.card{
+    margin-left: 250px;
+    margin-top: 60px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+p {
+    color: white;
+}
+
+.img-thumbnail{
+    width: 120px;
+    height: 120px;
+}
+.col-mid-12{
+    text-indent:  20px;
+}
+.navbar-foot{
+    text-indent:50%;
+    color: white;
+    font-size: 12px;
+    
+}
+.row{
+    padding:2px;
+}
+
+.img-thumbnail2{
+    width: 200px;
+    height: 200px;
+}
+.card-text{
+    background-color: #3cadad;
+    position: absolute;
+    margin-top: 80px;
+    width: 150px;
+    padding: 0px;
+    text-indent: center;
+    margin-left: -20px;
+    text-align: center;
+}
